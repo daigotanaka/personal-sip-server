@@ -1,11 +1,15 @@
 #!/bin/sh
- 
+
+sudo apt-get install bison flex
+
 # capture root dir
 root=$(pwd)
 
 # change into subdir of archive
-cd $root/opensips*
+cd $root
  
+ls .apt/usr/bin
+
 # configure and compile
 make install PREFIX=/app/vendor
  
