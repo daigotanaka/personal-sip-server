@@ -6,6 +6,7 @@ libdbi-perl
 libdbd-mysql-perl
 libdbd-pg-perl
 libfrontier-rpc-perl
+libncurses-dev
 libterm-readline-gnu-perl
 libberkeleydb-perl
 openssl
