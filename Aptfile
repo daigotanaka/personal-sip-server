@@ -1,0 +1,7 @@
+perl
+libdbi-perl
+libdbd-mysql-perl
+libdbd-pg-perl
+libfrontier-rpc-perl
+libterm-readline-gnu-perl
+libberkeleydb-perl
