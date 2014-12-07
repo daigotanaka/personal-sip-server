@@ -10,3 +10,4 @@ libncurses-dev
 libterm-readline-gnu-perl
 libberkeleydb-perl
 openssl
+python-pip
